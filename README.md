@@ -1,5 +1,5 @@
 ## Hola soy Aleeh Guerra🖖🏻
---
+
 Llevo programando desde que tengo 15 años, empezé como programador competitivo. Ahora estudio Ingenieria en Ciencias Informáticas en la UCI, con el objetivo de convertirme en desarollador.
 --
 Soy desarrollador **FrontEnd** 💻(Los Backend estan ***Locos***)
