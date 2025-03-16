@@ -2,7 +2,7 @@
 
 Llevo programando desde que tengo 15 años, empezé como programador competitivo. Ahora estudio Ingenieria en Ciencias Informáticas en la UCI, con el objetivo de convertirme en desarollador.
 --
-Soy desarrollador **FrontEnd** 💻(Los Backend estan ***Locos***)
+Soy desarrollador **FullStak**
 --
 # **Tecnologías**
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)![CSS](https://img.icons8.com/color/48/000000/css3.png)![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)![React](https://img.icons8.com/color/48/000000/react-native.png)
